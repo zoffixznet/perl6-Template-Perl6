@@ -1,0 +1,12 @@
+{
+    "perl"         : "6.c",
+    "name"         : "Templates::Perl6",
+    "version"      : "1.001001",
+    "description"  : "Templates with Perl 6",
+    "test-depends" : [ "Test" ],
+    "provides"     : {
+        "Template::Perl6" : "lib/Template/Perl6.pm6"
+    },
+    "authors"      : [ "Zoffix Znet" ],
+    "source-url"   : "git://github.com/zoffixznet/perl6-Template-Perl6.git"
+}
