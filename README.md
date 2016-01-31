@@ -2,7 +2,7 @@
 
 # NAME
 
-Template::Perl6 - Templates with Perl 6
+Template::Perl6 - Perl-ish templates!
 
 # SYNOPSIS
 

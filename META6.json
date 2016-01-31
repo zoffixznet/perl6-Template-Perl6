@@ -2,7 +2,7 @@
     "perl"         : "6.c",
     "name"         : "Templates::Perl6",
     "version"      : "1.001001",
-    "description"  : "Templates with Perl 6",
+    "description"  : "Perl-ish templates!",
     "test-depends" : [ "Test" ],
     "provides"     : {
         "Template::Perl6" : "lib/Template/Perl6.pm6"
